@@ -5,7 +5,7 @@ public class gitClasss {
         System.out.println("git test allot");
         System.out.println("git test allot");
         System.out.println("git test allot");
-        System.out.println("git test allot"); System.out.println("git test allot");
+        System.out.println("git test allot");
 
     }
 }
